@@ -2,7 +2,8 @@
 
 This is the repository for the Voron Trident based "Doomcube" printer.
 
-WARNING--this design is not complete--CAD is being shared so that people can help finish it
+Google Sheet with Extrusion Calculator:
+https://docs.google.com/spreadsheets/d/1qTaVyHt2C36SbJ9DLRkRgljxwSAOuOR2xMIi8v-wlLw/edit?usp=sharing
 
 <img width="720" alt="Screen Shot 2021-09-12 at 4 41 19 PM" src="https://user-images.githubusercontent.com/11861478/133002160-ea5a698e-c0ba-462d-b75e-9e6e274a6d9e.png">
 
